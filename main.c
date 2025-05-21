@@ -11,5 +11,6 @@ int main(void)
 {
 	printf("Hola Mundo!\n");
 	printf("Esto es un printf!\n");
+	printf("Esto es otro printf!\n");
 	return 0;
 }
