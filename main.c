@@ -10,5 +10,6 @@
 int main(void)
 {
 	printf("Hola Mundo!\n");
+	printf("Esto es un printf!\n");
 	return 0;
 }
